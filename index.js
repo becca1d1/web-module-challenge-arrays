@@ -49,7 +49,7 @@ Use the copy function below to do the following:
 function copy(/*your code here*/){
   /*your code here*/
 }
-
+console.log(array);
 
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
@@ -100,7 +100,8 @@ Use the removeLastFlavor function below to do the following:
 */
 
 
-function removeLastFlavor(/*your code here*/){
+function removeLastFlavor(//code here);
+{
  /*your code here*/
 }
 
